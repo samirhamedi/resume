@@ -1345,6 +1345,9 @@ input::-moz-focus-inner {
 .narrow {
     max-width: 800px;
 }
+.narrow-2 {
+    max-width: full;
+}
 
 
 /* ------------------------------------------------------------------- 
