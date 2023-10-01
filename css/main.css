@@ -3240,7 +3240,7 @@ html.no-csstransitions .home-content__main {
     background-color: #151515;
     background-image: url("../images/contact-bg-amir.jpg");
     background-repeat: no-repeat;
-    background-position: right, center;
+    background-position: right top  25px;
     padding-top: 13.2rem;
     padding-bottom: 12rem;
     color: rgba(255, 255, 255, 0.5);
