@@ -2236,7 +2236,7 @@ html.no-csstransitions .home-content__main {
     }
 
     .s-home {
-        background-image: url(../images/hero-bg-amir-max400.jpg);
+        background-image: url(../images/hero-bg-amir-max1000.jpg);
         background-size: cover;
         background-position:center;
     }
@@ -2341,6 +2341,13 @@ html.no-csstransitions .home-content__main {
         background-image: url(../images/hero-bg-amir-max400.jpg);
         background-size: cover;
     }
+}
+@media only screen and (max-width: 300px) {
+    .s-home {
+            background-image: url(../images/hero-bg-amir-max400.jpg);
+            background-size: cover;
+            background-position: right;
+        }
 }
 
 
