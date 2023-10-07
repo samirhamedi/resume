@@ -1834,6 +1834,10 @@ input::-moz-focus-inner {
     background-color: transparent;
     position: relative;
     display: table;
+    background-image: url(../images/hero-bg-amir.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 .s-home .shadow-overlay {
